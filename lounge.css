@@ -57,3 +57,23 @@
 .artist{
         font-weight: bold;
 }
+
+.js1{
+  border-color: rgb(100, 98, 100);
+  border-width: 10px;
+  background-color: blanchedalmond;
+  font-family: cursive;
+  font-size: 20px;
+
+  
+  
+  style;
+ 
+  padding: 15px;
+  margin:15px;
+
+  border-top-style:dashed;
+  border-bottom-style: dashed;
+  border-left-style:solid;
+  border-right-style:solid;
+}
